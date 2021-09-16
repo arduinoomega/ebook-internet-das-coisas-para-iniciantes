@@ -1,2 +1,2 @@
-# ebook-internet-das-coisas-para-iniciantes
-Projetos do E-Book Internet das Coisas para Iniciantes
+# E-Book Internet das Coisas para Iniciantes
+Projetos do Livro Internet das Coisas para Iniciantes
